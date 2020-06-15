@@ -1,0 +1,4 @@
+com\xieke\test\demo\boot\DemoServiceApplication.class
+com\xieke\test\demo\mapper\UserMapper.class
+com\xieke\test\demo\service\impl\UserServiceImpl.class
+com\xieke\test\demo\boot\config\MybatisPlusConfig.class
